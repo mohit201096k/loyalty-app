@@ -1,0 +1,21 @@
+{
+  "addToCart": "Agregar al Carrito",
+  "username": "nombre de usuario",
+  "password": "contraseña",
+  "myOrder":  "Mi Pedido",
+  "cart": "Carrito",
+  "singUp": "Registrarse",
+  "login": "Iniciar Sesión",
+  "filter": "Filtrar",
+  "sort": "Ordenar",
+  "aboutProgram": "Acerca del Programa",
+  "redeemRewards": "Canjear Recompensas",
+  "myAccount": "Mi Cuenta",
+  "faqs": "Preguntas Frecuentes",
+  "helpdesk": "Centro de Ayuda",
+  "termsAndCondition": "Términos y condiciones",
+  "privacyPolicy": "Política de Privacidad",
+  "disclaimer": "Descargo de Responsabilidad",
+  "logout": "Cerrar Sesión",
+  "deleteMyAccount": "Eliminar Mi Cuenta"
+}

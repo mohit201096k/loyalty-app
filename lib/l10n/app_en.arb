@@ -1,0 +1,21 @@
+{
+  "addToCart": "Add to Cart",
+  "username": "Username",
+  "myOrder": "MyOrder",
+  "password": "Password",
+  "cart": "Cart",
+  "singUp": "Sign Up",
+  "login": "Login",
+  "filter": "Filter",
+  "sort": "Sort",
+  "aboutProgram": "About Program",
+  "redeemRewards": "Redeem Rewards",
+  "myAccount": "My Account",
+  "faqs": "FAQs",
+  "helpdesk": "Helpdesk",
+  "termsAndCondition": "Terms & Condition",
+  "privacyPolicy": "Privacy Policy",
+  "disclaimer": "Disclaimer",
+  "logout": "Logout",
+  "deleteMyAccount": "Delete My Account"
+}

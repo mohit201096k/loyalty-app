@@ -1,0 +1,21 @@
+{
+  "addToCart": "कार्ट में डालें",
+  "cart": "कार्ट",
+  "myOrder" :"माय आर्डर",
+  "username": "उपयोगकर्ता नाम",
+  "password": "पासवर्ड",
+  "singUp": "साइन अप करें",
+  "login": "लॉग इन करें",
+  "filter": "फ़िल्टर",
+  "sort": "क्रमबद्ध करें",
+  "aboutProgram": "प्रोग्राम के बारे में",
+  "redeemRewards": "पुरस्कार दावा करें",
+  "myAccount": "मेरा खाता",
+  "faqs": "सामान्य प्रश्न",
+  "helpdesk": "हेल्पडेस्क",
+  "termsAndCondition": "शर्तें और शर्त",
+  "privacyPolicy": "गोपनीयता नीति",
+  "disclaimer": "अस्वीकरण",
+  "logout": "लॉगआउट",
+  "deleteMyAccount": "मेरे खाते को हटाएं"
+}
